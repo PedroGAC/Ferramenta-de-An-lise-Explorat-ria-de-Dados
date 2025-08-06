@@ -1,6 +1,6 @@
 # Análise Exploratória de Dados com Streamlit
 
-Esta aplicação foi desenvolvida como solução para o exercício 3 do processo seletivo de estágio da ESC Inovação. Ela permite realizar análise exploratória de dados através de uma interface gráfica intuitiva, utilizando as bibliotecas Streamlit e Pandas.
+Essa ferramenta permite realizar análise exploratória de dados através de uma interface gráfica intuitiva, utilizando as bibliotecas Streamlit e Pandas.
 
 ## Funcionalidades
 
@@ -105,5 +105,3 @@ A aplicação será aberta automaticamente no seu navegador padrão. Caso isso n
 - Suporte para tipos de dados numéricos e categóricos
 
 ---
-
-Desenvolvido para o processo seletivo da ESC Inovação - 2025
